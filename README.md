@@ -3,6 +3,8 @@
 ## Overview
 The Flight Ticket Reservation Database is designed to manage flight ticket reservations efficiently. It includes entities such as customer information, airlines, airports, ticket details, flight details, payments, and flight classes. These entities and their relationships ensure smooth functionality for booking and managing flight reservations.
 ---
+![E-R database schema](airline_reservation_database.jpg)
+
 ## Entities and Attributes
 The database consists of the following entities and their attributes:
 ### 1. **Customer Information**                 
