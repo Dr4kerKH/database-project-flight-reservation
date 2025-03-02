@@ -1,7 +1,8 @@
 # Flight Ticket Reservation Database
 
 ## Overview
-The Flight Ticket Reservation Database is designed to manage flight ticket reservations efficiently. It includes entities such as customer information, airlines, airports, ticket details, flight details, payments, and flight classes. These entities and their relationships ensure smooth functionality for booking and managing flight reservations.
+
+The Flight Ticket Reservation Database is designed to manage flight ticket reservations efficiently. It includes entities such as customer information, airlines, airports, ticket details, flight details, payments, and flight classes. These entities and their relationships ensure smooth functionality for booking and managing flight reservations where it hosts in MySQL relational database.
 ---
 
 ![E-R database schema](airline_reservation_database.jpg)
